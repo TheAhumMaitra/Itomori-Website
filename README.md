@@ -4,4 +4,4 @@ This the official open source website of [`Itomori`](https://github.com/TheAhumM
 
 # License
 
-[`MIT`](LICENSE.md)
+[`GNU GENERAL PUBLIC LICENSE VERSION 3`](LICENSE)
