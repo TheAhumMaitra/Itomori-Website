@@ -26,6 +26,11 @@ export default function Navbar() {
         >
           Itomori
         </Link>
+        <ul>
+          <li className="mr-4 hover:text-purple-700 hover:font-extrabold">
+            <Link href={"https://itomori-documentation.vercel.app/"}>Docs</Link>
+          </li>
+        </ul>
         <ModeToggle />
       </nav>
     </>
